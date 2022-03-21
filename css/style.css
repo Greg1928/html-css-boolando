@@ -80,6 +80,7 @@
     font-size: small;
     color: #EB0037;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 
 .product .product-img-2 {
@@ -94,4 +95,8 @@ s{
 }
 .product:hover .product-img-2 {
     display: block;
+}
+.feature-only{
+    bottom: 15px;
+    left: 0;
 }
